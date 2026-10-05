@@ -102,16 +102,4 @@ To check that data is arriving, run `python "Récupérer les données OSC.py"` (
 
 ---
 
-## Screenshots
-
-> _Screenshots coming soon._
-
-| Player interface | Controller feedback | Sensor plots |
-| :---: | :---: | :---: |
-| ![Player interface](docs/screenshots/player.png) | ![Controller feedback](docs/screenshots/controller.png) | ![Sensor plots](docs/screenshots/sensors.png) |
-
-<!-- Add images to docs/screenshots/ using the file names above. -->
-
----
-
 **Team project** at ENSC (Bordeaux INP). Author of this repository: Alyaa Saab.
